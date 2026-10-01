@@ -38,7 +38,7 @@ dependencies:
   marquee: ^2.2.3
   google_fonts: ^6.1.0
   font_awesome_flutter: ^10.6.0
-  carousel_slider: ^4.2.1
+  carousel_slider: ^5.1.2
   carousel_indicator: ^1.0.6
   dots_indicator: ^3.0.0
   flutter_sticky_widgets: ^0.0.3
